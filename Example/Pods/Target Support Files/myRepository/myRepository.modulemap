@@ -1,0 +1,6 @@
+framework module myRepository {
+  umbrella header "myRepository-umbrella.h"
+
+  export *
+  module * { export * }
+}

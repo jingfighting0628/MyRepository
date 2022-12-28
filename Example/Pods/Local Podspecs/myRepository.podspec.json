@@ -1,0 +1,22 @@
+{
+  "name": "myRepository",
+  "version": "0.1.0",
+  "summary": "A short description of myRepository.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jing_fight0628@163.com/myRepository",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jing_fight0628@163.com": "jing_fight0628@163.com"
+  },
+  "source": {
+    "git": "https://github.com/jing_fight0628@163.com/myRepository.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "myRepository/Classes/**/*"
+}
